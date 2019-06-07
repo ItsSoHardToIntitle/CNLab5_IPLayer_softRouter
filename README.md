@@ -9,6 +9,8 @@ Step2. 运行turnkeySystem.jar（总控程序，运行上面的5个softRouter.ex
 
 Step3. ok
 
+注：路由器之间的信息以及分组的转发可能比较慢，因为为了上课展示，表现出它的变化，所以程序中Send线程每次发送信息前设置了Thread.sleep()，注释掉即可。
+
 1. 实验要求：
 
 ![image](https://github.com/ItsSoHardToIntitle/CNLab5_IPLayer_softRouter/blob/master/image/1.png)
