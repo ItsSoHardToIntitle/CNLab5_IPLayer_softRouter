@@ -22,3 +22,5 @@ Step3. ok
 3. 结果展示：
 
 ![image](https://github.com/ItsSoHardToIntitle/CNLab5_IPLayer_softRouter/blob/master/image/3.png)
+
+4. 水平有限
