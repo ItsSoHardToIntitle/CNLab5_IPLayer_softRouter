@@ -1,6 +1,11 @@
 # CNLab5_IPLayer_softRouter
 北理工计算机网络第五章实验-ip层_simple sorftRouter（with many bugs)
 
+运行方式：
+Step1. 运行exeCopyBat.jar（生成相同的softRouter.exe: 1 - 5, 数目由配置文件中的路由器数目决定）
+Step2. 运行turnkeySystem.jar（总控程序，运行上面的5个softRouter.exe，并分配端口号，即：开启各个路由器）
+Step3. ok
+
 1. 实验要求：
 
 ![image](https://github.com/ItsSoHardToIntitle/CNLab5_IPLayer_softRouter/blob/master/image/1.png)
