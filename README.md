@@ -1,5 +1,5 @@
 # CNLab5_IPLayer_softRouter
-北理工计算机网络第五章实验-ip层_simple sorftRouter（with many bugs)
+北理工计算机网络第五章实验-ip层_simple sorftRouter
 
 运行方式：
 
